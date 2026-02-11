@@ -1,4 +1,4 @@
-## 📊 Sales Analysis Dashboard (Excel Capstone Project)  
+## 📊 Sales Performance Analysis Dashboard (Excel Capstone Project)  
 
 ## 📌 Project Overview
 
@@ -25,7 +25,7 @@ The dashboard enables business stakeholders to quickly identify:
 
 ## 📊 Dataset  -->>>>
 
-- <a href="https://github.com/dimple-shah-au13/Sales-Analysis-Dashboard-/blob/main/Excel%20Project.xlsx">Dataset</a>
+- <a href="https://github.com/dimple-shah-au13/Sales-Performance-Analysis-Excel-Dashboard/blob/main/Excel%20Project.xlsx">Dataset</a>
 
 
 ### Key Columns Included
@@ -191,7 +191,7 @@ These filters allow users to drill down into specific sales segments.
 
 ## 📊 Excel Dashboard Interaction -->>>>
 
-- <a href="https://github.com/dimple-shah-au13/Sales-Analysis-Dashboard-/blob/main/Images/Excel-Dashboard.png">View Sales Dashboard</a>
+- <a href="https://github.com/dimple-shah-au13/Sales-Performance-Analysis-Excel-Dashboard/blob/main/Images/Excel-Dashboard.png">View Sales Dashboard</a>
 
 ## 🔍 Business Insights & Recommendations
 
@@ -227,7 +227,7 @@ Data Analyst | Excel | Power BI | Tableau | SQL | Python | Business Intelligence
 
 ## GITHUB -->>>>
 
-- <a href ="https://github.com/dimple-shah-au13/Sales-Analysis-Dashboard-/tree/main">GITHUB</a>
+- <a href ="https://github.com/dimple-shah-au13/Sales-Performance-Analysis-Excel-Dashboard/tree/main">GITHUB</a>
 
 
 ## ⭐ Support
