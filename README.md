@@ -1,4 +1,4 @@
-## 📊 Sales Analysis Dashboard (Excel Project)  
+## 📊 Sales Analysis Dashboard (Excel Capstone Project)  
 
 ## 📌 Project Overview
 
