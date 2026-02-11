@@ -1,4 +1,4 @@
-# Sales Analysis Dashboard (Excel Project)  
+## 📊 Sales Analysis Dashboard (Excel Project)  
 
 ## 📌 Project Overview
 
@@ -25,7 +25,7 @@ The dashboard enables business stakeholders to quickly identify:
 
 ## 📊 Dataset  -->>>>
 
-- <a href="https://github.com/dimple-shah-au13/Sales-Analysis-Dashboard-/Excel Project.xlsx">Dataset</a>
+- <a href="https://github.com/dimple-shah-au13/Sales-Analysis-Dashboard-/blob/main/Excel%20Project.xlsx">Dataset</a>
 
 
 ### Key Columns Included
@@ -191,7 +191,7 @@ These filters allow users to drill down into specific sales segments.
 
 ## 📊 Excel Dashboard Interaction -->>>>
 
-- <a href="https://github.com/dimple-shah-au13/Sales-Analysis-Dashboard-/Images/Excel-Dashboard.png">View Sales Dashboard</a>
+- <a href="https://github.com/dimple-shah-au13/Sales-Analysis-Dashboard-/blob/main/Images/Excel-Dashboard.png">View Sales Dashboard</a>
 
 ## 🔍 Business Insights & Recommendations
 
@@ -222,12 +222,13 @@ Here’s a preview of the interactive dashboard:
 ## 👤 Author
 
 **Dimple Shah**
-Data Analyst | Excel | Power BI | Tableau | SQL | Python
+Data Analyst | Excel | Power BI | Tableau | SQL | Python | Business Intelligence Enthusiast
 
 
 ## GITHUB -->>>>
 
 - <a href ="https://github.com/dimple-shah-au13/Sales-Analysis-Dashboard-/tree/main">GITHUB</a>
+
 
 ## ⭐ Support
 
