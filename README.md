@@ -1,4 +1,4 @@
-## 📊 Sales Performance Analysis Dashboard (Excel Capstone Project)  
+## 📊 Sales Performance Analysis Dashboard (Excel Capstone Project) :- 
 
 ## 📌 Project Overview
 
@@ -23,9 +23,9 @@ The dashboard enables business stakeholders to quickly identify:
 * Provide slicers for interactive filtering
 
 
-## 📊 Dataset  -->>>>
+## 📂 Dataset Information -->>>>
 
-- <a href="https://github.com/dimple-shah-au13/Sales-Performance-Analysis-Excel-Dashboard/blob/main/Excel%20Project.xlsx">Dataset</a>
+🔗 **[View Dataset](https://github.com/dimple-shah-au13/Sales-Performance-Analysis-Excel-Dashboard/blob/main/Excel%20Project.xlsx)**
 
 
 ### Key Columns Included
@@ -53,6 +53,7 @@ The dashboard enables business stakeholders to quickly identify:
 
 
 ## 🧹 Data Cleaning Process
+
 1. Converted first row into headers and standardized column names.
 2. Removed duplicate records using Excel Remove Duplicates feature.
 3. Handled missing values in sales, quantity, and date fields.
@@ -191,7 +192,9 @@ These filters allow users to drill down into specific sales segments.
 
 ## 📊 Excel Dashboard Interaction -->>>>
 
-- <a href="https://github.com/dimple-shah-au13/Sales-Performance-Analysis-Excel-Dashboard/blob/main/Images/Excel-Dashboard.png">View Sales Dashboard</a>
+
+🔗 **[View Sales Dashboard](https://github.com/dimple-shah-au13/Sales-Performance-Analysis-Excel-Dashboard/blob/main/Excel%20Project.xlsx)**
+
 
 ## 🔍 Business Insights & Recommendations
 
@@ -222,12 +225,12 @@ Here’s a preview of the interactive dashboard:
 ## 👤 Author
 
 **Dimple Shah**  
-Data Analyst | Excel | Power BI | Tableau | SQL | Python | Business Intelligence Enthusiast
+- Data Analyst | Excel | Power BI | Tableau | SQL | Python | Business Intelligence Enthusiast
 
 
 ## GITHUB -->>>>
 
-- <a href ="https://github.com/dimple-shah-au13/Sales-Performance-Analysis-Excel-Dashboard/tree/main">GITHUB</a>
+🔗 <a href ="https://github.com/dimple-shah-au13/Sales-Performance-Analysis-Excel-Dashboard/tree/main">GITHUB</a>
 
 
 ## ⭐ Support
