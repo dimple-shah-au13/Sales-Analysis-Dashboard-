@@ -221,7 +221,7 @@ Here’s a preview of the interactive dashboard:
 
 ## 👤 Author
 
-**Dimple Shah**
+**Dimple Shah**  
 Data Analyst | Excel | Power BI | Tableau | SQL | Python | Business Intelligence Enthusiast
 
 
